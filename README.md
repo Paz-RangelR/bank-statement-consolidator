@@ -108,7 +108,7 @@ here would produce a plausible, wrong cash position.
 No credentials, no database, no network.
 
 ```bash
-git clone https://github.com/chino-bot1701/bank-statement-consolidator.git
+git clone https://github.com/Paz-RangelR/bank-statement-consolidator.git
 cd bank-statement-consolidator
 
 pip install openpyxl                          # generator only
